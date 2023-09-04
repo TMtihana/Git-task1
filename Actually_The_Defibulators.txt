@@ -13,5 +13,4 @@ verse-9.txt
 verse-10.txt
 verse-11.txt
 verse-12.txt
-You gotta pay for that money boy, You gotta pay for that money boy
-You gotta pay for that money boy, You gotta pay for that money boy
+chorus-2.txt
